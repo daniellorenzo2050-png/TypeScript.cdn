@@ -3,7 +3,7 @@
   "description": "Create, read and edit .zip files with JavaScript and TypeScript",
   "latest": "3.10.1",
   "versions": ["3.10.1"],
-  "homepage": "https://typescript.cdn/npm/jszip",
+  "homepage": "https://raw.githubusercontent.com/daniellorenzo2050-png/TypeScript.cdn/refs/heads/main/ajax/lib/jsziphomepage.html",
   "repository": "https://github.com/daniellorenzo2050-png/TypeScript.cdn",
   "baseUrl": "https://raw.githubusercontent.com/daniellorenzo2050-png/TypeScript.cdn/refs/heads/main/ajax/lib/",
   "files": {
