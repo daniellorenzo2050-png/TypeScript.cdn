@@ -1,14 +1,24 @@
 {
-  "name": "jszip",
-  "description": "Create, read and edit .zip files with JavaScript and TypeScript",
-  "latest": "3.10.1",
-  "versions": ["3.10.1"],
-  "homepage": "https://raw.githubusercontent.com/daniellorenzo2050-png/TypeScript.cdn/refs/heads/main/ajax/lib/jsziphomepage.html",
-  "repository": "https://github.com/daniellorenzo2050-png/TypeScript.cdn",
-  "baseUrl": "https://raw.githubusercontent.com/daniellorenzo2050-png/TypeScript.cdn/refs/heads/main/ajax/lib/",
-  "files": {
-    "main": "https://raw.githubusercontent.com/daniellorenzo2050-png/TypeScript.cdn/refs/heads/main/ajax/lib/jszip.min.js",
-    "types": "https://raw.githubusercontent.com/daniellorenzo2050-png/TypeScript.cdn/refs/heads/main/ajax/lib/jszip.d.ts"
-  },
-  "license": "MIT"
+  "version": "1.0",
+  "generatedAt": "2026-09-12T16:20:00Z",
+  "totalPackages": 1,
+  "packages": [
+    {
+      "name": "jszip",
+      "description": "Create, read and edit .zip files with JavaScript and TypeScript",
+      "latest": "3.10.1",
+      "versions": [
+        "3.10.1"
+      ],
+      "homepage": "https://typescript.cdn/npm/jszip",
+      "repository": "https://github.com/daniellorenzo2050-png/TypeScript.cdn",
+      "sourceUrl": "https://raw.githubusercontent.com/daniellorenzo2050-png/TypeScript.cdn/refs/heads/main/ajax/lib/jszip.min.js",
+      "baseUrl": "https://raw.githubusercontent.com/daniellorenzo2050-png/TypeScript.cdn/refs/heads/main/ajax/lib/",
+      "files": {
+        "main": "https://raw.githubusercontent.com/daniellorenzo2050-png/TypeScript.cdn/refs/heads/main/ajax/lib/jszip.min.js",
+        "types": "https://raw.githubusercontent.com/daniellorenzo2050-png/TypeScript.cdn/refs/heads/main/ajax/lib/jszip.d.ts"
+      },
+      "license": "MIT"
+    }
+  ]
 }
